@@ -8,3 +8,4 @@ selam
 ;'|:"
 ,./|<>?
 
+this is a tryout for vscode
